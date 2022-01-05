@@ -21,7 +21,7 @@ Ping me on likedIn, or Discord. Ciao.
 </p>
 
 ```python
-class AbhigyanTrips():
+class Shivang():
     
   def __init__(self):
     self.name = "Shivang Shukla";
